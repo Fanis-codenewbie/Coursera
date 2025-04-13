@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Страница — 1" id="e036U3CvUfa9BN4bp2hr">
-    <mxGraphModel dx="1854" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1754" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="lNHtI7_W-xIbk-WuVndw-7" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="-520" width="200" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="lNHtI7_W-xIbk-WuVndw-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/ae_6-Fo9FxAggllI-ELB3g/voilavoyage.png;labelBorderColor=none;perimeterSpacing=1;" parent="1" vertex="1">
+        <mxCell id="lNHtI7_W-xIbk-WuVndw-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/ae_6-Fo9FxAggllI-ELB3g/voilavoyage.png;labelBorderColor=none;perimeterSpacing=1;imageBorder=default;" parent="1" vertex="1">
           <mxGeometry x="-507" y="90" width="41.79" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNHtI7_W-xIbk-WuVndw-9" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.appBar;fillColor=#ffffff;gradientColor=none;sketch=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
@@ -81,14 +81,14 @@
         <mxCell id="lNHtI7_W-xIbk-WuVndw-26" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="-200" width="200" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="lNHtI7_W-xIbk-WuVndw-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/ae_6-Fo9FxAggllI-ELB3g/voilavoyage.png;labelBorderColor=none;perimeterSpacing=1;" parent="1" vertex="1">
-          <mxGeometry x="-187" y="76" width="41.79" height="40" as="geometry" />
+        <mxCell id="lNHtI7_W-xIbk-WuVndw-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/ae_6-Fo9FxAggllI-ELB3g/voilavoyage.png;labelBorderColor=none;perimeterSpacing=1;imageBorder=default;" parent="1" vertex="1">
+          <mxGeometry x="-182" y="76" width="41.79" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNHtI7_W-xIbk-WuVndw-30" value="&lt;p&gt;&lt;span style=&quot;color: rgb(214, 51, 132); font-size: 14px; font-weight: 400; text-align: left; text-wrap: wrap; background-color: rgb(246, 246, 246);&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=futura&quot;&gt;VoilaVoyage&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=futura;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfutura;" parent="1" vertex="1">
           <mxGeometry x="-145.21000000000004" y="76" width="125.21" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNHtI7_W-xIbk-WuVndw-31" value="" style="shape=rect;strokeColor=none;fillColor=#ffffff;gradientColor=none;shadow=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-187.5" y="116" width="164" height="100" as="geometry" />
+          <mxGeometry x="-187.5" y="118" width="164" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lNHtI7_W-xIbk-WuVndw-32" value="Saturday 10:12 AM" style="shape=text;align=center;verticalAlign=middle;fontSize=5;fontColor=#999999;strokeColor=none;fillColor=none;spacingTop=0;resizeWidth=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;" parent="lNHtI7_W-xIbk-WuVndw-31" vertex="1">
           <mxGeometry width="164" height="10" relative="1" as="geometry">
@@ -119,7 +119,7 @@
           <mxGeometry x="-187.5" y="218" width="175" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lNHtI7_W-xIbk-WuVndw-43" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.appBar;fillColor=#ffffff;gradientColor=none;sketch=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="-187" y="61" width="175" height="15" as="geometry" />
+          <mxGeometry x="-187" y="60" width="175" height="15" as="geometry" />
         </mxCell>
         <mxCell id="lNHtI7_W-xIbk-WuVndw-44" value="CARRIER" style="shape=rect;sketch=0;align=left;fontSize=8;spacingLeft=24;fontSize=4;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;hachureGap=4;pointerEvents=0;html=1;" parent="lNHtI7_W-xIbk-WuVndw-43" vertex="1">
           <mxGeometry y="0.5" width="50" height="13" relative="1" as="geometry">
